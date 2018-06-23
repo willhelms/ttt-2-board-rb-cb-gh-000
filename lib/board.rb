@@ -5,4 +5,4 @@ while i < 9 do
   board << " "
 end
 
-board.inspect
+board.inspect()
